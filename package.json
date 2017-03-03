@@ -1,0 +1,45 @@
+{
+  "name": "word2num",
+  "version": "0.1.0",
+  "description": "Converts number words to number(s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatharthk/word2num.git"
+  },
+  "keywords": [
+    "numbers",
+    "number",
+    "words",
+    "text",
+    "to",
+    "number",
+    "word",
+    "to",
+    "number",
+    "int",
+    "conversion"
+  ],
+  "author": "Yatharth Khatri <yatharth01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yatharthk/word2num/issues"
+  },
+  "homepage": "https://github.com/yatharthk/word2num#readme",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "coveralls": "^2.11.16",
+    "nyc": "^10.1.2",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": 2
+  }
+}
