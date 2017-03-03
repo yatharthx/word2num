@@ -1,6 +1,6 @@
 {
   "name": "word2num",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts number words to number(s)",
   "main": "index.js",
   "scripts": {
