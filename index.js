@@ -62,7 +62,7 @@ function word2num(wordnum) {
         n += g * small
         g = 0
       } else {
-        throw new Error(`${numPart} is not a number.`)
+        return numPart;
       }
     }
   }
